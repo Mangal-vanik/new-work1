@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+.logo{
+  background-image: url(./Component/image/logo.png);
+  align-content: center;
+  border-radius: 10px;
+
+ 
+}
+.addButton{
+  display: block;
+}
+.homeImage{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  justify-content: center;
+  margin: 40px;
+  border-radius: 20%
+
+}
+
+
+
